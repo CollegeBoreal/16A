@@ -1,0 +1,3 @@
+[submodule "INF1044-16A"]
+	path = INF1044-16A
+	url = git@github.com:CollegeBoreal/INF1044-16A.git
